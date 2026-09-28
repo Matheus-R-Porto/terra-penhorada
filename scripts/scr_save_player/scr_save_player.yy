@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_save_player",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_save_player",
+  "parent":{
+    "name":"SaveLoad",
+    "path":"folders/Scripts/SaveLoad.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

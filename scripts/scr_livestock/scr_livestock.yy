@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_livestock",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_livestock",
+  "parent":{
+    "name":"Pecuária",
+    "path":"folders/Scripts/Pecuária.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

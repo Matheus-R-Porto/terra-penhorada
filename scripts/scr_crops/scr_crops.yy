@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_crops",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_crops",
+  "parent":{
+    "name":"Agricultura",
+    "path":"folders/Scripts/Agricultura.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

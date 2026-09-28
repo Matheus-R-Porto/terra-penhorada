@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_contracts",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_contracts",
+  "parent":{
+    "name":"Economia_Contratos",
+    "path":"folders/Scripts/Economia_Contratos.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

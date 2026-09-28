@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_grid",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_grid",
+  "parent":{
+    "name":"Máquinas_Automação",
+    "path":"folders/Scripts/Máquinas_Automação.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

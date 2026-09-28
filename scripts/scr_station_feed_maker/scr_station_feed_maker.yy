@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_station_feed_maker",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_station_feed_maker",
+  "parent":{
+    "name":"Pecuária",
+    "path":"folders/Scripts/Pecuária.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

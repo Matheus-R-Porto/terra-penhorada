@@ -1,0 +1,16 @@
+#macro GUI_WIDTH 1280
+#macro GUI_HEIGHT 720
+
+#macro CAMERA_WIDTH 640
+#macro CAMERA_HEIGHT 360
+
+#macro GRID_SIZE 32
+
+#macro PLAYER_MOVE_SPEED 2.2
+
+#macro INTERACT_RANGE 48
+#macro BUILD_RANGE 128
+
+#macro SAVE_VERSION 1
+
+#macro DEBT_USE_INTEREST false

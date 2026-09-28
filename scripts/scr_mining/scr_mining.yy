@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_mining",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_mining",
+  "parent":{
+    "name":"Mineração_Produção",
+    "path":"folders/Scripts/Mineração_Produção.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
