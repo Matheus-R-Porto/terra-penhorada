@@ -10,7 +10,7 @@ Protótipo de jogo de fazenda/sobrevivência feito em **GameMaker**, com mecâni
 - NPCs, inventário, baú de armazenamento e sistema de save/load completo
 
 ## Status
-Em desenvolvimento / não finalizado — projeto de estudo e prática de sistemas de jogo em GameMaker.
+Pausado no momento. As mecânicas e sistemas (economia, automação, save/load) estão funcionais, mas o projeto ficou parado por falta de tempo pra fazer a arte final — hoje só tem sprites/imagens de teste e placeholder. Fica aqui como registro de estudo e prática de sistemas de jogo em GameMaker, não como jogo "acabado".
 
 ## Como abrir
 Requer [GameMaker](https://gamemaker.io/) instalado. Abra o arquivo `.yyp` na raiz do projeto.
